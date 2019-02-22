@@ -3,7 +3,7 @@
 
 # In[12]:
 
-
+#Kendi kodlarım
 import time
 def power(x,y):
     start=time.time()
